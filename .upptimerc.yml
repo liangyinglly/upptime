@@ -3,8 +3,8 @@ owner: liangyinglly # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: National Central University
+    url: https://www.ncu.edu.tw/tw/
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
