@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: National Central University
     url: https://www.ncu.edu.tw/tw/
-  - name: 中央大學課外組
-    url: https://club.adm.ncu.edu.tw/
+  - name: TANet NOC
+    url: https://noc.tanet.edu.tw/
   - name: 中央大學資管系
     url: https://im.mgt.ncu.edu.tw/
   - name: NARLabs
