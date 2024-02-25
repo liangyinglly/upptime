@@ -7,15 +7,17 @@ sites:
     url: https://www.ncu.edu.tw/tw/
   - name: 中央大學課外組
     url: https://club.adm.ncu.edu.tw/
-  - name: PORTAL NCU
-    url: https://portal.ncu.edu.tw/
-  - name: Test Broken Site
-    url: https://broken.tw
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: 中央大學資管系
+    url: https://im.mgt.ncu.edu.tw/
+  - name: NARLabs
+    url: https://www.narlabs.org.tw/
+  - name: Failed webpage of IM Department
+    url: https://immgt.mgt.ncu.edu.tw/
+  #- name: IPv6 test
+    #url: forwardemail.net
+    #port: 80
+    #check: "tcp-ping"
+    #ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
