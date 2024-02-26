@@ -41,35 +41,39 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1912,
     "timeDay": 1912,
     "timeWeek": 1912,
     "timeMonth": 1912,
     "timeYear": 1912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "NARLabs",
     "url": "https://www.narlabs.org.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2768,
     "timeDay": 2768,
     "timeWeek": 2768,
     "timeMonth": 2768,
     "timeYear": 2768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Failed webpage of IM Department",
