@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.18%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 1912,
     "timeDay": 1912,
     "timeWeek": 1912,
     "timeMonth": 1912,
     "timeYear": 1912,
     "dailyMinutesDown": {
-      "2024-02-26": 0
+      "2024-02-26": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://www.narlabs.org.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2768,
-    "timeDay": 2768,
-    "timeWeek": 2768,
-    "timeMonth": 2768,
-    "timeYear": 2768,
+    "status": "up",
+    "uptime": "99.17%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 2743,
+    "timeDay": 2743,
+    "timeWeek": 2743,
+    "timeMonth": 2743,
+    "timeYear": 2743,
     "dailyMinutesDown": {
-      "2024-02-26": 0
+      "2024-02-26": 6
     }
   },
   {
