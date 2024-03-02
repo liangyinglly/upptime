@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ncu.edu.tw.ico",
     "slug": "national-central-university",
     "status": "up",
-    "uptime": "95.00%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "95.00%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 1474,
     "timeDay": 1607,
     "timeWeek": 1474,
@@ -44,17 +44,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "",
     "status": "down",
-    "uptime": "95.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "95.00%",
+    "uptime": "95.12%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.12%",
+    "uptimeYear": "95.12%",
     "time": 1716,
     "timeDay": 1526,
     "timeWeek": 1716,
     "timeMonth": 1716,
     "timeYear": 1716,
     "dailyMinutesDown": {
+      "2024-03-02": 0,
       "2024-02-29": 120,
       "2024-02-28": 265
     }
@@ -64,9 +65,9 @@
     "url": "https://www.narlabs.org.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +76,9 @@
     "timeWeek": 3483,
     "timeMonth": 3483,
     "timeYear": 3483,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-02": 0
+    }
   },
   {
     "name": "Failed webpage of IM Department",
