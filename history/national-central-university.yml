@@ -1,7 +1,7 @@
 url: https://www.ncu.edu.tw/tw/
-status: up
-code: 200
-responseTime: 1445
-lastUpdated: 2024-03-15T23:11:46.210Z
+status: down
+code: 503
+responseTime: 916
+lastUpdated: 2024-03-16T20:14:22.787Z
 startTime: 2024-02-25T16:52:06.227Z
 generator: Upptime <https://github.com/upptime/upptime>
