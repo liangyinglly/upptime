@@ -8,12 +8,12 @@
     "uptime": "97.57%",
     "uptimeDay": "98.29%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.36%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "97.57%",
     "time": 1731,
     "timeDay": 1608,
     "timeWeek": 1574,
-    "timeMonth": 2014,
+    "timeMonth": 2041,
     "timeYear": 1731,
     "dailyMinutesDown": {
       "2024-04-17": 25,
@@ -62,9 +62,9 @@
     "slug": "",
     "status": "down",
     "uptime": "97.57%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "98.36%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "97.57%",
     "time": 1585,
     "timeDay": 1559,
@@ -98,9 +98,9 @@
     "url": "https://www.narlabs.org.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 2792,
     "timeMonth": 2702,
     "timeYear": 2798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 0
+    }
   },
   {
     "name": "Failed webpage of IM Department",
