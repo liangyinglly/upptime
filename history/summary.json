@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.80%",
     "time": 1972,
-    "timeDay": 2268,
-    "timeWeek": 2238,
-    "timeMonth": 2349,
-    "timeYear": 2022,
+    "timeDay": 2243,
+    "timeWeek": 2261,
+    "timeMonth": 2325,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2024-09-13": 67,
       "2024-09-12": 8,
@@ -27,8 +27,7 @@
       "2024-03-19": 139,
       "2024-03-18": 160,
       "2024-03-17": 101,
-      "2024-03-16": 109,
-      "2024-03-15": 100
+      "2024-03-16": 109
     }
   },
   {
@@ -43,10 +42,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2249,
-    "timeDay": 2233,
-    "timeWeek": 2180,
+    "timeDay": 2160,
+    "timeWeek": 2168,
     "timeMonth": 2102,
-    "timeYear": 2256,
+    "timeYear": 2257,
     "dailyMinutesDown": {
       "2025-01-23": 101
     }
@@ -57,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "",
     "status": "down",
-    "uptime": "72.25%",
+    "uptime": "72.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.09%",
+    "uptimeYear": "71.10%",
     "time": 1530,
-    "timeDay": 1434,
-    "timeWeek": 1665,
-    "timeMonth": 1556,
+    "timeDay": 1430,
+    "timeWeek": 1494,
+    "timeMonth": 1538,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2025-01-23": 101,
@@ -188,8 +187,7 @@
       "2024-03-19": 139,
       "2024-03-18": 160,
       "2024-03-17": 101,
-      "2024-03-16": 109,
-      "2024-03-15": 100
+      "2024-03-16": 109
     }
   },
   {
@@ -198,16 +196,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
     "status": "up",
-    "uptime": "72.63%",
+    "uptime": "72.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.33%",
-    "time": 3082,
-    "timeDay": 2725,
-    "timeWeek": 2360,
-    "timeMonth": 3339,
-    "timeYear": 3093,
+    "time": 3080,
+    "timeDay": 2672,
+    "timeWeek": 2469,
+    "timeMonth": 3337,
+    "timeYear": 3095,
     "dailyMinutesDown": {
       "2025-01-10": 16,
       "2024-11-08": 19,
