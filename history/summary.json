@@ -26,9 +26,9 @@
     "url": "https://noc.tanet.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/noc.tanet.edu.tw.ico",
     "slug": "ta-net-noc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -38,6 +38,7 @@
     "timeMonth": 2785,
     "timeYear": 2321,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-01-23": 101
     }
   },
@@ -47,8 +48,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "",
     "status": "down",
-    "uptime": "75.09%",
-    "uptimeDay": "100.00%",
+    "uptime": "75.11%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "70.43%",
@@ -58,6 +59,7 @@
     "timeMonth": 1475,
     "timeYear": 1527,
     "dailyMinutesDown": {
+      "2025-05-09": 0,
       "2025-03-24": 389,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
@@ -182,7 +184,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
     "status": "up",
-    "uptime": "75.42%",
+    "uptime": "75.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
