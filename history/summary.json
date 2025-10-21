@@ -11,9 +11,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 2202,
-    "timeDay": 2182,
-    "timeWeek": 1967,
-    "timeMonth": 2115,
+    "timeDay": 2101,
+    "timeWeek": 2027,
+    "timeMonth": 2116,
     "timeYear": 2239,
     "dailyMinutesDown": {
       "2025-10-16": 16,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 1992,
-    "timeDay": 1150,
-    "timeWeek": 945,
-    "timeMonth": 922,
-    "timeYear": 1913,
+    "time": 1991,
+    "timeDay": 1229,
+    "timeWeek": 1021,
+    "timeMonth": 926,
+    "timeYear": 1910,
     "dailyMinutesDown": {
       "2025-07-10": 56,
       "2025-06-02": 110,
@@ -54,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "",
     "status": "down",
-    "uptime": "81.41%",
+    "uptime": "81.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.34%",
     "time": 1509,
-    "timeDay": 1456,
-    "timeWeek": 1364,
-    "timeMonth": 1510,
-    "timeYear": 1510,
+    "timeDay": 1711,
+    "timeWeek": 1412,
+    "timeMonth": 1504,
+    "timeYear": 1513,
     "dailyMinutesDown": {
       "2025-10-16": 16,
       "2025-10-14": 18,
@@ -85,8 +85,7 @@
       "2025-03-21": 1184,
       "2025-01-23": 101,
       "2025-01-10": 16,
-      "2024-11-08": 19,
-      "2024-10-21": 126
+      "2024-11-08": 19
     }
   },
   {
@@ -95,16 +94,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.narlabs.org.tw.ico",
     "slug": "nar-labs",
     "status": "up",
-    "uptime": "82.06%",
+    "uptime": "82.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.04%",
     "time": 4278,
-    "timeDay": 4695,
-    "timeWeek": 3691,
-    "timeMonth": 4154,
-    "timeYear": 4322,
+    "timeDay": 4242,
+    "timeWeek": 3874,
+    "timeMonth": 4162,
+    "timeYear": 4327,
     "dailyMinutesDown": {
       "2025-10-14": 18,
       "2025-08-11": 298,
@@ -115,8 +114,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1184,
       "2025-01-10": 16,
-      "2024-11-08": 19,
-      "2024-10-21": 126
+      "2024-11-08": 19
     }
   },
   {
