@@ -1,7 +1,7 @@
 url: https://noc.tanet.edu.tw/
-status: up
-code: 200
-responseTime: 700
-lastUpdated: 2025-11-17T23:15:51.040Z
+status: down
+code: 500
+responseTime: 279
+lastUpdated: 2025-11-18T11:39:33.319Z
 startTime: 2024-02-25T17:15:06.947Z
 generator: Upptime <https://github.com/upptime/upptime>
