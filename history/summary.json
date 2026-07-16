@@ -57,10 +57,10 @@
     "url": "https://im.mgt.ncu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/im.mgt.ncu.edu.tw.ico",
     "slug": "中央大學資管系",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2709,
@@ -68,7 +68,9 @@
     "timeWeek": 3096,
     "timeMonth": 2981,
     "timeYear": 2709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-16": 1
+    }
   },
   {
     "name": "NARLabs",
